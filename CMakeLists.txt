@@ -4,8 +4,8 @@
 cmake_minimum_required (VERSION 3.8)
 
 # Solution
-project ("SAE921-GRP4100-SFML")
+project ("SAE921-GRP4100-CPlusPlus")
 
 # Each sub-project
-set(EXECUTABLE_CUSTOM_NAME "00")
-add_subdirectory ("00")
+set(EXECUTABLE_CUSTOM_NAME "xx-OOP-Basics")
+add_subdirectory ("xx-OOP-Basics")
